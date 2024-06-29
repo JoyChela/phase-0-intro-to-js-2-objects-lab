@@ -29,11 +29,6 @@ function updateEmployeeWithKeyAndValue(employee, key, value) {
     return employee;
   }
   
-  module.exports = {
-    updateEmployeeWithKeyAndValue,
-    destructivelyUpdateEmployeeWithKeyAndValue,
-    deleteFromEmployeeByKey,
-    destructivelyDeleteFromEmployeeByKey
-  };
+ 
 
   
